@@ -1,0 +1,2 @@
+# FunnyHeadlines
+Funny headline generation
