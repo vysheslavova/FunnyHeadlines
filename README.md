@@ -21,7 +21,7 @@
 # Modification
 **Idea**:
 * we have an example of using the idiom (https://www.wiktionary.org or https://idioms.thefreedictionary.com)
-* get pattern from the example: extract dependencies (and their types) from it that consist of words of idiom
+* get pattern from the example: extract dependencies (and their types) from it that include words of idiom
   * idiom: bet the farm
   * example: "I'd be surprised if those two are still dating come Christmas, but I'm not betting the farm on a breakup just yet."
   * dependencies: [('I', 'betting', 'nsubj'), ('the farm', 'betting', 'dobj')]
