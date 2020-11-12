@@ -5,7 +5,7 @@
 
 **Idioms**:
 * [IBM Debater - Sentiment Lexicon of IDiomatic Expressions (SLIDE)](https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml) (4,976)
-* definition from [wiktionary.org](wiktionary.org)
+* definition from [wiktionary.org](https://www.wiktionary.org)
 
 **Quotes**:
 * [Quotes Dataset](https://www.kaggle.com/akmittal/quotes-dataset) (9,415)
