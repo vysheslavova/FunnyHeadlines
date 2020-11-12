@@ -25,7 +25,7 @@
   * idiom: bet the farm
   * example: "I'd be surprised if those two are still dating come Christmas, but I'm not betting the farm on a breakup just yet."
   * dependencies: [('I', 'betting', 'nsubj'), ('the farm', 'betting', 'dobj')]
-* replace words in these dependencies which not in idiom by words from artcile (title/ners/...) (title dependencies: [title_dep.py](title_dep.py)
+* replace words in these dependencies which not in idiom by words from article (title/ners/...) (title dependencies: [title_dep.py](title_dep.py))
   * title: "'Everything I've Done Is 100 Percent Proper,' Trump Says of Russia Inquiry"
   * title dependencies: ('Everything', 'Is', 'nsubj', 1), ('I', 'Done', 'nsubj', 0), ('Russia', 'of', 'pobj', 3), ('Inquiry', 'of', 'pobj', 1)
   * result: ('Russia betting the farm', 3), ('Everything betting the farm', 1), ('Inquiry betting the farm', 1), ('I betting the farm', 0)
