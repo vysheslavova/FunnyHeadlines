@@ -12,8 +12,8 @@
 
 # Methods
 * BM25 ([elasticsearch](https://www.elastic.co/elasticsearch/)): folder [elsearch](../blob/master/elsearch)
-* [Sentence-BERT](https://arxiv.org/abs/1908.10084): [similarity.py](../blob/master/similarity.py)
-* [USE](https://arxiv.org/abs/1803.11175): [similarity.py](../blob/master/similarity.py)
+* [Sentence-BERT](https://arxiv.org/abs/1908.10084): [similarity.py](similarity.py)
+* [USE](https://arxiv.org/abs/1803.11175): [similarity.py](/similarity.py)
 
 # Articles 
 * OpenIE and SpaCy dependencies, NERs, top unigrams: content.py
